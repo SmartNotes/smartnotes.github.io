@@ -15,8 +15,7 @@ _SmartNotes is a text editor that generates suggestions and features or symbols 
 
 If you are interested in how SmartNotes was created, the report can be found [here](https://docs.google.com/document/d/1GtBl7qtJfJzKFVy4D-sDy0Vx2M_SFIAdKaXfv2TPz0I/edit?usp=sharing).
 
-
-
+<img src="{{https://ibb.co/hsrjF6N}}/images/equation-1.gif" style="display: block; margin: auto;" />
 
 
 
