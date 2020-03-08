@@ -5,6 +5,9 @@
   <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
 </video>
 
+## What is SmartNotes?
+_SmartNotes is a text editor that generates suggestions and features or symbols based on the selected suggestion. The application was created with the aim of simplifying the generation of characters and features that are not on the keyboard or requires several time-consuming steps in popular document editors like Google Documents and Microsoft Word._
+
 ### **Functions in SmartNotes**
 - **Special symbols** - Easy access to different symbols
 - **Voice to text** - Easy to use only your voice to write your texts
