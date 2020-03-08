@@ -8,12 +8,10 @@
 ### **Functions in SmartNotes**
 - **Special symbols** - Easy access to different symbols
 - **Voice to text** - Easy to use only your voice to write your texts
-- **Save Document** - Save your document to 
+- **Document files** - Save your document as .tex (LaTeX), .PDF or as SmartNots own format, .note
 
-                                            1. Google Drive
-                                            2. As .PDF
-                                            3. As LaTeX
-                                            4. .note
+If you are interested in how SmartNotes was created, the report can be found [here](https://docs.google.com/document/d/1GtBl7qtJfJzKFVy4D-sDy0Vx2M_SFIAdKaXfv2TPz0I/edit?usp=sharing).
+
 
 
 
