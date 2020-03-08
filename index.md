@@ -1,4 +1,4 @@
-# **Welcome to SmartNotes**
+# Welcome to SmartNotes
 ## Notes, but intelligent.
 
 
