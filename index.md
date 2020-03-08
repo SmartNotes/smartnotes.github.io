@@ -1,4 +1,20 @@
-## Welcome to SmartNotes
+# Welcome to SmartNotes
+## Notes, but intelligent.
+
+
+### **Functions in SmartNotes**
+- **Special symbols** - Easy access to different symbols
+- **Voice to text** - Easy to use only your voice to write your texts
+- **Save Document** - Save your document to 
+                                            1. Google Drive
+                                            2. As .PDF
+                                            3. As LaTeX
+                                            4. .note
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/SmartNotes/smartnotes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
