@@ -1,11 +1,15 @@
 # Welcome to SmartNotes
 ## Notes, but intelligent.
 
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
+</video>
 
 ### **Functions in SmartNotes**
 - **Special symbols** - Easy access to different symbols
 - **Voice to text** - Easy to use only your voice to write your texts
 - **Save Document** - Save your document to 
+
                                             1. Google Drive
                                             2. As .PDF
                                             3. As LaTeX
