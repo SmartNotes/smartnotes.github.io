@@ -19,7 +19,7 @@ _SmartNotes is a text editor that generates suggestions and features or symbols 
 <img src="autoGenerate.png" class="img-responsive" alt="" width="550" height="350">
 <hr>
 - **Voice to text** - Easy to use only your voice to write your texts
-<br> <img src="speechToText.png" class="img-responsive" alt="" width="250" height="150">
+<br> <img src="speechToText.png" class="img-responsive" alt="" width="210" height="150">
 <hr>
 - **Document files** - Save your document as .tex (LaTeX), .PDF or as SmartNots own format,.note <br>
 <br>
