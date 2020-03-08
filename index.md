@@ -33,6 +33,6 @@ If you are interested in how SmartNotes was created, the report can be found [he
             	<li>David Guirguis</li>
             	<li>Anton Espling</li>
             	<li>Samsom Dewitsegid</li>
-            	<li>Joel Wik</li>
+            	<li>Joel Vik</li>
 	</ul>
     </footer>
