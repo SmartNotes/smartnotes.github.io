@@ -10,12 +10,16 @@ _SmartNotes is a text editor that generates suggestions and features or symbols 
 
 ### **Functions in SmartNotes**
 - **Special symbols** - Easy access to different symbols
+<img src="autoGenerate.png" class="img-responsive" alt="">
+
 - **Voice to text** - Easy to use only your voice to write your texts
+<img src="speechToText.png" class="img-responsive" alt="">
+
 - **Document files** - Save your document as .tex (LaTeX), .PDF or as SmartNots own format, .note
+<img src="saveSmartNotes.png" class="img-responsive" alt="">
+
 
 If you are interested in how SmartNotes was created, the report can be found [here](https://docs.google.com/document/d/1GtBl7qtJfJzKFVy4D-sDy0Vx2M_SFIAdKaXfv2TPz0I/edit?usp=sharing).
-
-<img src="saveSmartNotes.png" class="img-responsive" alt="">
 
 
 
