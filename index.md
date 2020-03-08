@@ -38,6 +38,5 @@ If you are interested in how SmartNotes was created, the report can be found [he
             	<li>Anton Espling</li>
 		<li>Joel Vik</li>
             	<li>Samsom Dewitsegid</li>
-
 	</ul>
     </footer>
