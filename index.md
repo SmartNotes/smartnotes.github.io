@@ -14,13 +14,15 @@
 _SmartNotes is a text editor that generates suggestions and features or symbols based on the selected suggestion. The application was created with the aim of simplifying the generation of characters and features that are not on the keyboard or requires several time-consuming steps in popular document editors like Google Documents and Microsoft Word._
 
 # **Functions in SmartNotes**
-- **Special symbols** - Easy access to different symbols
+- **Special symbols** - Easy access to different symbols 
+<br><br>
 <img src="autoGenerate.png" class="img-responsive" alt="" width="600" height="300">
-
+<br>
 - **Voice to text** - Easy to use only your voice to write your texts
-<br> <img src="speechToText.png" class="img-responsive" alt="" width="150" height="150">
-
+<br><br> <img src="speechToText.png" class="img-responsive" alt="" width="150" height="150">
+<br>
 - **Document files** - Save your document as .tex (LaTeX), .PDF or as SmartNots own format,.note <br>
+<br><br>
 <img src="saveSmartNotes.png" class="img-responsive" alt="" width="300" height="150" align="center">
 
 ### **Want more details?**
@@ -32,7 +34,8 @@ If you are interested in how SmartNotes was created, the report can be found [he
             	<li>Henric Andersson</li>
             	<li>David Guirguis</li>
             	<li>Anton Espling</li>
+		<li>Joel Vik</li>
             	<li>Samsom Dewitsegid</li>
-            	<li>Joel Vik</li>
+
 	</ul>
     </footer>
