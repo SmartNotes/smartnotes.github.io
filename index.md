@@ -16,7 +16,7 @@ _SmartNotes is a text editor that generates suggestions and features or symbols 
 # **Functions in SmartNotes**
 - **Special symbols** - Easy access to different symbols 
 <br>
-<img src="autoGenerate.png" class="img-responsive" alt="" width="600" height="300">
+<img src="autoGenerate.png" class="img-responsive" alt="" width="550" height="350">
 <hr>
 - **Voice to text** - Easy to use only your voice to write your texts
 <br> <img src="speechToText.png" class="img-responsive" alt="" width="250" height="150">
