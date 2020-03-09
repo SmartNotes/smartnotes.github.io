@@ -7,7 +7,7 @@
   </head>
 
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
+  <source type="video/mp4" src="https://youtu.be/uXDanUkSW5s">
 </video>
 
 ## What is SmartNotes?
