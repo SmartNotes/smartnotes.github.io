@@ -7,7 +7,7 @@
   </head>
 
 
-<iframe width="320" height="240" src="https://www.youtube.com/embed/uXDanUkSW5s?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXDanUkSW5s?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is SmartNotes?
 _SmartNotes is a text editor that generates suggestions and features or symbols based on the selected suggestion. The application was created with the aim of simplifying the generation of characters and features that are not on the keyboard or requires several time-consuming steps in popular document editors like Google Documents and Microsoft Word._
