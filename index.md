@@ -27,7 +27,7 @@ _SmartNotes is a text editor that generates suggestions and features or symbols 
 
 ### **Want more details?**
 
-SmartNotes originated as a project. If you are interested in how SmartNotes was created, the report can be found [here](Paper.pdf).
+SmartNotes originated as a project by a few students at KTH, Royal Institute of Technology. If you are interested in how SmartNotes was created, the swedish report can be found [here](Paper.pdf).
 
 <footer>
     	<ul>
